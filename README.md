@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhattiaman</h1>
-<h3 align="center">I am a passionate software engineering student pursuing a Bachelor of Engineering in Computer Science from Chandigarh University. With a strong foundation in Object Oriented Programming, DBMS, Data Structures, Operating Systems, and Computer Networks, I have a strong foundation in languages like Java, C/C++, and JavaScript, and am experienced in web technologies such as HTML, CSS, PHP, and MySQL. I am also proficient in ReactJS and have completed projects in various domains, including fitness websites, chat applications, and sorting visualizers.</h3>
+<h4 align="center">I am a passionate software engineer</h4>
 
 - 🌱 I’m currently learning **React JS**
 
